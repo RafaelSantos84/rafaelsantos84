@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Santos 👋
 🌱 Estou atualmente estudando Python.
 <div>
-  <a href="https:beacons.ai/rafaelsantos84">
+  <a href="https://beacons.ai/rafaelsantos84">
     <img height="180em" src="https://github-readme-stats-vercel.app/api?username=rafaelsantos84&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!--
