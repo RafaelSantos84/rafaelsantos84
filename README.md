@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Rafael Santos 👋
-🌱 Estou atualemnte estudando Python.
+🌱 Estou atualmente estudando Python.
 
 <!--
 **RafaelSantos84/rafaelsantos84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
