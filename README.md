@@ -5,7 +5,7 @@
 	<img align="center" alt="Rafael=Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 <div><br>
-  <a href="https://beacons.ai/rafaelsantos84">
+  <a href="https://github.com/rafaelsantos84">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantos84&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantos84&layout=compact&langs_count=16&theme=dracula"/>
 </div>
